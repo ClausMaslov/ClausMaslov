@@ -1,7 +1,7 @@
 ## <div>Welcome!</div>
 ### - ✨ Andrey, 16, Ukraine, Frontend developer
 ### - 🔥 1+ year exp
-### [![My Skills](https://skillicons.dev/icons?i=html,css,figma)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
 
 <details>
   
