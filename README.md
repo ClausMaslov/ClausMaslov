@@ -1,7 +1,7 @@
 ## <div>Welcome!</div>
 ### - ✨ Андрей, 16, Украина, Frontend Developer
 ### - 🔥 1+ year exp
-### [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,figma,github,vscode,discord)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,figma,github,git,vscode,discord)](https://skillicons.dev)
 
 <details>
   
