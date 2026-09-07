@@ -1,5 +1,3 @@
-# Hi there, I'm Andrii 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=false&vCenter=true&width=550&lines=Aspiring+Software+Developer;Backend+%26+Full-Stack+Enthusiast;JavaScript+%2F+TypeScript+%2F+Node.js;Preparing+for+Ausbildung+in+Germany)](https://git.io/typing-svg)
 
 ---
